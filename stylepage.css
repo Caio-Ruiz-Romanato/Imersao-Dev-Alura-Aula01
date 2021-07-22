@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  vertical-align: baseline;
+  list-style: none;
+  border: 0;
+}
+
+body {
+  height: 100vh;
+  font-family: "Courier New", Courier, monospace;
+  background-image: url("https://i.postimg.cc/KvDWgQJQ/cryptocurrency-3085139-1920.jpg");
+  min-height: 581px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 1858px;
+}
+
+.container {
+  text-align: center;
+  padding: 2rem;
+  font-size: 22pt;
+  align-items: center;
+  justify-content: center;
+  color: #f2f2f8;
+}
+
+.titulo-pagina {
+  padding: auto;
+  margin: 3rem 0 0.5rem;
+}
